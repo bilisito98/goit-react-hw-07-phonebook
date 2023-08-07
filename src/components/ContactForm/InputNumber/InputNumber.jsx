@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import PhoneField from 'react-phone-input-2'
 import 'react-phone-input-2/lib/style.css'
-import s from './InputNumber.module.css';
+
 
 const InputNumber = ({ phone, onNumberChange}) => {
   return <PhoneField
