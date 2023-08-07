@@ -7,6 +7,7 @@ import Notification from 'components/Notification';
 import sprite from '../../images/icons.svg';
 import { toast } from 'react-toastify';
 import s from './ContactList.module.css';
+import React from 'react';
 
 const ContactList = () => {
   // Color for loader
