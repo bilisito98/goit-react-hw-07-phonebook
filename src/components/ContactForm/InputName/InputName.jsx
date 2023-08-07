@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import s from './InputName.module.css';
+
 
 const InputName = ({ name, onNameChange}) => {
     return <input
